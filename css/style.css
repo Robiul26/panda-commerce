@@ -1,0 +1,69 @@
+
+
+.container{
+    margin-bottom: 100px;
+}
+
+/* For Carosule */
+.orange-bg{
+    background-color:#feeae9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;    
+}
+
+.price{
+    color: #ff136f;
+    font-weight: bold;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+/* For Categories */
+
+.cat-1,.cat-2,.cat-3{
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.cat-1{
+    background-color: orange;
+}
+.cat-2{
+    background-color: orchid;
+}
+.cat-3{
+    background-color: blue;
+}
+.categories h2{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+
+#subscribe{
+    height: 300px;
+}
+.subscribe-text{
+    color: gray;
+    font-size: 13px;
+}
