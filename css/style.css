@@ -1,9 +1,8 @@
 
 
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
-
 /* For Carosule */
 .orange-bg{
     background-color:#feeae9;
@@ -66,4 +65,11 @@
 .subscribe-text{
     color: gray;
     font-size: 13px;
+}
+
+
+@media(max-width:992px){    
+    .nav-section{
+        margin-bottom: 0;
+    }
 }
